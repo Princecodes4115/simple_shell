@@ -7,11 +7,3 @@ help: help
 
     Exit Status:
     Returns success unless PATTERN is not found or an invalid option is given.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs

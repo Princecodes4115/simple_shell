@@ -1,4 +1,4 @@
- unset: unset
+  unset: unset
     Unset values and attributes of shell variables and functions.
 
     For each NAME, remove the corresponding variable or function.
@@ -6,12 +6,3 @@
 
     Exit Status:
     Returns success unless an invalid option is given or a NAME is read-only.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact 
